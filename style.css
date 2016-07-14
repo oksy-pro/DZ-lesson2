@@ -1,0 +1,16 @@
+﻿article {
+    border: 1px solid #ddd;
+    width: 600px;
+    margin: 20px auto;
+    box-shadow: 0 0 1px #bbb;
+    padding: 30px;
+}
+.center {
+    text-align: center;
+}
+section {
+    padding: 10px;
+}
+.bordered {
+    border-bottom: 1px solid #999;
+}
